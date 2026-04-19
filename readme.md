@@ -7,7 +7,7 @@
 
 ### ✍️Development process
 This project development follows Agile method
-[![interface]("interface")](https://raw.githubusercontent.com/aflyqi/MPU-Canvas-Smart-Deadline-Manager/refs/heads/main/demonstration.png)
+![interface](https://raw.githubusercontent.com/aflyqi/MPU-Canvas-Smart-Deadline-Manager/main/screenshot.png)
 
 **Reason for Choosing This Process**:
 
