@@ -4,11 +4,9 @@
 
 - This tool enabling students to view all their courses, assignments, and quizzes in one place. It intelligently detects completion status and highlights tasks approaching their deadlines — helping students stay organized and never miss important due dates.
 
-<div align="center">
-  <h2>🎥 Demo Video</h2>
-  <video src="https://github.com/aflyqi/MPU-Canvas-Smart-Deadline-Manager/raw/main/video/demo.mp4" width="85%" controls></video>
-</div>
+## 🎥 Demo Video</h2>
 
+![interface](https://raw.githubusercontent.com/aflyqi/MPU-Canvas-Smart-Deadline-Manager/main/video/demo.mp4)
 
 ### ✍️Development process
 This project development follows Agile method
