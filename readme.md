@@ -7,7 +7,7 @@
 ## 🎥 Video Demo
 ### The demo video is in video/demo.mp4.
 ## 🎥 Project Demo Video
-
+### Click to go to YouTube to watch. https://www.youtube.com/watch?v=Au7Xrd5CgC8
 <div align="center">
   <a href="https://youtu.be/Au7Xrd5CgC8" target="_blank">
     <img src="https://img.youtube.com/vi/Au7Xrd5CgC8/maxresdefault.jpg" width="85%" alt="Demo Video">
