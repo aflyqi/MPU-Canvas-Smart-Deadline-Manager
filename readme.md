@@ -6,18 +6,12 @@
 
 ## 🎥 Video Demo
 ### The demo video is in video/demo.mp4.
+## 🎥 Project Demo Video
+
 <div align="center">
-
-### 🎥 Project Demo Video
-
-<iframe width="85%" height="480" 
-        src="https://www.youtube.com/embed/Au7Xrd5CgC8" 
-        title="MPU Canvas Smart Deadline Manager Demo" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
-
+  <a href="https://youtu.be/Au7Xrd5CgC8" target="_blank">
+    <img src="https://img.youtube.com/vi/Au7Xrd5CgC8/maxresdefault.jpg" width="85%" alt="Demo Video">
+  </a>
 </div>
 
 ### ✍️Development process
